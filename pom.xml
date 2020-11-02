@@ -43,6 +43,8 @@
         <module>seata-storage-service2002</module>
         <module>seata-account-service2003</module>
         <module>java-test</module>
+        <module>redis</module>
+        <module>activemq</module>
     </modules>
 
     <!--统一管理jar包版本-->

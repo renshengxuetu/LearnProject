@@ -1,2 +1,8 @@
 server:
   port: 8180
+spring:
+  redis:
+    host: 192.168.3.30
+    port: 6379
+    database: 1
+

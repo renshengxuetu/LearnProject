@@ -1,5 +1,7 @@
 package com.java.learn.classload;
 
+import org.springframework.beans.factory.BeanNameAware;
+
 public class Father {
 
     private int i = test();
